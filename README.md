@@ -23,3 +23,21 @@ Tasks are managed using Python lists and are stored in a text file (`tasks.txt`)
 
 ## Outcome
 A professional, persistent CLI to-do app suitable for project submission.
+
+## Screenshots
+
+image-1
+
+<img width="1920" height="1000" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/6d4d2bc1-5f3f-4a2c-8a0f-08ad211af385" />
+
+
+image-2
+
+<img width="1920" height="1013" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/43ef2725-6cbc-4eeb-8866-76ed01f699fc" />
+
+
+
+
+
+
+
